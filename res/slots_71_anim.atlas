@@ -1,0 +1,76 @@
+
+slots_71_anim.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big/element_1
+  rotate: false
+  xy: 2, 223
+  size: 174, 136
+  orig: 188, 150
+  offset: 7, 3
+  index: -1
+big/element_bg
+  rotate: false
+  xy: 320, 297
+  size: 160, 108
+  orig: 188, 150
+  offset: 14, 21
+  index: -1
+big/element_bg2
+  rotate: false
+  xy: 2, 379
+  size: 93, 26
+  orig: 93, 26
+  offset: 0, 0
+  index: -1
+big/element_bg3
+  rotate: false
+  xy: 178, 159
+  size: 174, 136
+  orig: 208, 166
+  offset: 17, 11
+  index: -1
+big/element_bg3glow
+  rotate: false
+  xy: 225, 332
+  size: 93, 73
+  orig: 97, 77
+  offset: 2, 1
+  index: -1
+big/lizi_00004
+  rotate: true
+  xy: 2, 77
+  size: 144, 146
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+big/lizi_00006
+  rotate: true
+  xy: 150, 10
+  size: 147, 148
+  orig: 150, 150
+  offset: 0, 2
+  index: -1
+big/lizi_00008
+  rotate: true
+  xy: 300, 2
+  size: 149, 150
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+big/lizi_00010
+  rotate: true
+  xy: 354, 153
+  size: 142, 148
+  orig: 150, 150
+  offset: 6, 0
+  index: -1
+big/waiquan
+  rotate: false
+  xy: 97, 361
+  size: 126, 44
+  orig: 128, 44
+  offset: 1, 0
+  index: -1
